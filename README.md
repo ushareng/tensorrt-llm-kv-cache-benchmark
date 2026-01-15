@@ -2,6 +2,9 @@
 
 This repository provides a reproducible benchmarking workflow to compare **TensorRT-LLM inference performance** with and without **paged KV cache optimization**.
 
+<img width="1410" height="557" alt="Demo_TensorRT" src="https://github.com/user-attachments/assets/3a79ccbf-c40f-473d-97c2-83db93980a58" />
+
+
 ---
 
 ## Overview
