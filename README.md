@@ -146,6 +146,4 @@ Latency speedup: 0.92x
 
 ---
 
-## License
-
-MIT License
+## License: MIT © 2026 Usha Rengaraju
